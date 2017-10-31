@@ -17,11 +17,11 @@
 			<key>metadata</key>
 			<dict>
 				<key>title</key>
-				<string>YouKu</string>
+				<string>HongBao</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-identifier</key>
-				<string>com.youku.YouKu</string>
+				<string>com.quange.com</string>
 			</dict>
 		</dict>
 	</array>
